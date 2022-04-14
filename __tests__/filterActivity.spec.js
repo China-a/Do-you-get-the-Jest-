@@ -1,4 +1,4 @@
-let {users} = require("../src/filterActity")
+let {users} = require("../src/filterActivity")
 
 describe("Getting Teds login amount", () => {
     test("Number of logins is 53", () => {
